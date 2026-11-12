@@ -1,1 +1,1 @@
-{"name":"cutest-picture-01","private":true,"type":"module","version":"1.0.0"}
+{"description":"make.fun cutest-picture-01 entry: a baby panda hugging bamboo","license":"MIT","name":"cutest-picture-01","private":true,"scripts":{"start":"npx tsx main.ts"},"type":"module","version":"1.0.0"}
