@@ -33,7 +33,7 @@ MAKEFUN_OUTPUT_DIR=/tmp/cutest-out npx tsx main.ts
 
 ## Referral
 
-Referral code: `dzgseakx`
+https://make.fun/r/xk7vph3j
 
 ## License
 
